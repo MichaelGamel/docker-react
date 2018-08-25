@@ -13,7 +13,7 @@ class App extends Component {
         <p className="App-intro">
           Hi from my first deployment using:
           <br />
-          ( Docker, Travis, AWS )
+          ( React, Docker, Travis, AWS )
         </p>
       </div>
     );
